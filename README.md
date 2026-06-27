@@ -1,29 +1,31 @@
 <h1 align="center">Merhaba, ben Rauf Eken</h1>
 
 <p align="center">
-  Bilgisayar Mühendisliği Öğrencisi | Mobil Uygulama, Yapay Zekâ ve Yazılım Geliştirme
+  Bilgisayar Mühendisliği Öğrencisi | Mobil Uygulama • Yapay Zekâ • Veri • Ağlar ve Siber Güvenlik
 </p>
 
 ---
 
 ## Hakkımda
 
-Bilgisayar mühendisliği alanında kendimi mobil uygulama geliştirme, yapay zekâ, bilgisayarlı görü, veri analizi ve yazılım geliştirme konularında geliştirmeye odaklanıyorum.
+Bilgisayar mühendisliği alanında kendimi mobil uygulama geliştirme, yapay zekâ, veri analizi, backend teknolojileri, bilgisayar ağları ve siber güvenlik konularında geliştirmeye odaklanıyorum.
 
-Akademik ve kişisel projelerimde Flutter, Firebase, Python, JavaScript ve makine öğrenmesi teknolojilerini kullanarak gerçek problemlere yönelik uygulanabilir çözümler üretmeye çalışıyorum.
+Akademik ve kişisel projelerimde Flutter, Firebase, Python, JavaScript ve makine öğrenmesi teknolojilerini kullanarak uygulanabilir, anlaşılır ve gerçek problemlere yönelik yazılımlar geliştirmeye çalışıyorum.
 
-Özellikle mobil uygulamalar, yapay zekâ destekli sistemler, görüntü işleme, algoritmalar, veri tabanı sistemleri ve yazılım mimarisi konularına ilgi duyuyorum.
+Özellikle mobil uygulamalar, Firebase tabanlı sistemler, görüntü işleme ve nesne tespiti, veri odaklı analiz süreçleri, algoritmalar, veritabanı sistemleri, bilgisayar ağları ve temel siber güvenlik konularına ilgi duyuyorum.
 
 ---
 
 ## Odak Alanlarım
 
 * Flutter ve Firebase ile mobil uygulama geliştirme
-* Yapay zekâ ve bilgisayarlı görü uygulamaları
+* Firebase Authentication, Firestore ve bildirim sistemleri
 * Python ile veri analizi ve makine öğrenmesi
-* Algoritma görselleştirme ve eğitim amaçlı yazılımlar
-* Veritabanı, backend ve bulut tabanlı sistemler
-* Bilgisayar ağları ve siber güvenlik temelleri
+* Görüntü işleme, nesne tespiti ve YOLO tabanlı yapay zekâ uygulamaları
+* SQL, PostgreSQL, Oracle ve veritabanı yönetimi
+* Backend geliştirme ve web tabanlı sistemler
+* Algoritmalar, veri yapıları ve yazılım mimarisi
+* Bilgisayar ağları, Linux temelleri ve siber güvenlik farkındalığı
 
 ---
 
@@ -36,16 +38,19 @@ Akademik ve kişisel projelerimde Flutter, Firebase, Python, JavaScript ve makin
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Mobil ve Bulut
+### Mobil, Web ve Bulut
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Yapay Zekâ ve Veri
+### Yapay Zekâ, Veri ve Görüntü İşleme
 
 ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
@@ -53,7 +58,7 @@ Akademik ve kişisel projelerimde Flutter, Firebase, Python, JavaScript ve makin
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-### Araçlar
+### Araçlar ve Sistemler
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -63,12 +68,14 @@ Akademik ve kişisel projelerimde Flutter, Firebase, Python, JavaScript ve makin
 
 ---
 
-## Üzerinde Çalıştığım Alanlar
+## Geliştirmeye Odaklandığım Konular
 
-* Mobil uygulama geliştirme süreçlerinde daha temiz mimari kurmak
-* Firebase tabanlı gerçek zamanlı veri yönetimi geliştirmek
-* Yapay zekâ ve görüntü işleme projelerinde model eğitimi ve değerlendirme süreçlerini güçlendirmek
+* Mobil uygulamalarda daha temiz mimari ve sürdürülebilir kod yapısı kurmak
+* Firebase tabanlı gerçek zamanlı veri yönetimi ve bildirim sistemlerini geliştirmek
+* Yapay zekâ ve görüntü işleme projelerinde model eğitimi, test ve değerlendirme süreçlerini güçlendirmek
+* Python ile veri analizi, öznitelik çıkarımı ve makine öğrenmesi uygulamaları geliştirmek
 * Backend, veritabanı ve yazılım mimarisi bilgimi ilerletmek
+* Bilgisayar ağları, Linux ve siber güvenlik temellerinde kendimi geliştirmek
 * GitHub üzerinde düzenli, okunabilir ve profesyonel proje dokümantasyonu oluşturmak
 
 ---
